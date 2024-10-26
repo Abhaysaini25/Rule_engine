@@ -1,0 +1,9 @@
+{
+    "database": {
+      "host": "localhost",
+      "port": 2210,
+      "name": "rule_engine_db",
+      "username": "engine",
+      "password": "Abhay@10"
+    }
+  }
